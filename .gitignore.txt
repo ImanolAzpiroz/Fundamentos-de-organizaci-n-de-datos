@@ -1,0 +1,10 @@
+# Ejecutables
+*.exe
+
+# Archivos binarios de datos (FOD)
+*.dat
+
+# (opcional) otros comunes de Pascal
+*.o
+*.ppu
+*.compiled
